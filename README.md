@@ -15,4 +15,7 @@ As sample comparison shows as follows:
 ![image-name](Code1.PNG) 
 ![image-name](Refactored1.PNG)
 
-Running the code multiple times showed that the refactored code ran about 0.1 seconds faster.  We can assume that for a larger group of stocks, this efficiency would increase.  While introducing arrays to the refactored code introduced some complexity in the coding itself, once developed, the code was much more elegant and compact, and seemingly uses less computer power to execute.
+Running the code multiple times showed that the refactored code ran about 0.1 seconds faster.  We can assume that for a larger group of stocks, this efficiency would increase.  
+
+For the original code, setting up the variables and the nested loops was much more intuitive. 
+However, for the refactored code, once the concepts of the arrays are understood, it is clearly a more efficient code that takes less processor time.  With larger data sets, this efficiency would clearly be advanatageous.
