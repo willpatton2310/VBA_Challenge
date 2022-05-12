@@ -8,7 +8,9 @@ The results of the 2-year portfolio analysis were as follows:
 ![image-name](2018_Returns.PNG) 
 
 Regarding stock performance, the client will find that 2018 was clearly a more bullish year than 2017.
-Regarding the performance of the code, when the variables were coded as arrays for output data, the code consistently ran faster.  As sample comparison shows as follows:
+Regarding the performance of the code, when the variables were coded as arrays for output data, the code consistently ran faster.  
+
+As sample comparison shows as follows:
 
 ![image-name](Code1.PNG) 
 ![image-name](Refactored1.PNG)
