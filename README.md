@@ -7,7 +7,7 @@ The results of the 2-year portfolio analysis were as follows:
 ![image-name](2017_Returns.PNG) 
 ![image-name](2018_Returns.PNG) 
 
-Regarding stock performance, the client will find that 2018 was clearly a more bullish year than 2017.
+Regarding stock performance, the client will find that 2017 was clearly a more bullish year than 2018.
 Regarding the performance of the code, when the variables were coded as arrays for output data, the code consistently ran faster.  
 
 As sample comparison shows as follows:
